@@ -27,5 +27,7 @@ Icon=/path/to/yourapp.png
 ***Replace yourapp with your application and save by pressing Ctrl+O, Enter and Ctrl+X.***
 
 
-***0ptional, Make this file executable:***
+
+
+***(optional, works without), Make this file executable:***
 sudo chmod +x /usr/share/applications/yourapp.desktop
